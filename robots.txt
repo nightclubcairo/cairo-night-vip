@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://nightnlub.github.io/cairo-night-vip/sitemap.xml
