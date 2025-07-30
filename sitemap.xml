@@ -1,6 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-<url>
-  <loc></loc>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://nightnlub.github.io/cairo-night-vip/</loc>
+    <lastmod>2025-07-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- أضف المزيد من الروابط هنا إذا كان لديك صفحات داخلية -->
+  <!-- مثال:
+  <url>
+    <loc>https://nightnlub.github.io/cairo-night-vip/about.html</loc>
+    <lastmod>2025-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  -->
+
 </urlset>
